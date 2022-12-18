@@ -16,8 +16,13 @@ A list of IOS Jailbreak Tweaks that will help you get the latest features on old
 | Always On Display | Last Look | Get a last look at your phone when you lock it | 12.0 - 15.7 | $2.49 | [Chariz](https://chariz.com/buy/lastlook) |
 | Newer Apple Watches | Legizmo ‘Kincaid’ | Pair Newer Apple Watches | 13.0 - 15.7 | $4.99 | [Chariz](https://chariz.com/buy/legizmo-kincaid) |
 
+# IOS 15
+| Feature | Name of Tweak | Description | iOS Compatibility | Price (USD) | Link & Repo |
+|:--------:|:-------:|:-------:|:------:|:---------:|:---------:|
+| Newer Shortcuts | Pastcuts | Import iOS 15+ shortcuts on iOS 13/14 | 13.0 - 14.8.1 | Free | [Havoc](https://havoc.app/package/pastcuts) |
 
 # IOS 13
+
 | Feature | Name of Tweak | Description | iOS Compatibility | Price (USD) | Link & Repo |
 |:--------:|:-------:|:-------:|:------:|:---------:|:---------:|
 | New Volume HUD | 13HUD | iOS 13 volume HUD | 11.0 - 12.4.3 | Free | [Havoc](https://havoc.app/package/13hud) |
