@@ -21,6 +21,13 @@ A list of IOS Jailbreak Tweaks that will help you get the latest features on old
 |:--------:|:-------:|:-------:|:------:|:---------:|:---------:|
 | Newer Shortcuts | Pastcuts | Import iOS 15+ shortcuts on iOS 13/14 | 13.0 - 14.8.1 | Free | [Havoc](https://havoc.app/package/pastcuts) |
 
+# IOS 14
+| Feature | Name of Tweak | Description | iOS Compatibility | Price (USD) | Link & Repo |
+|:--------:|:-------:|:-------:|:------:|:---------:|:---------:|
+| Widgets | Xen HTML | Xen HTML allows you to add widgets to your Homescreen and Lockscreen | 9.0 - 14.8.1 | Free | [Havoc](https://havoc.app/package/xenhtml) |
+| App Library | Vesta | Access  all  your applications with a swipe | 11.0 - 13.6 | Free | [SparkDev](https://www.sparkdev.me/package/com.spark.vesta) |
+| Remove Apps from Homescreen | HideYourApps | Hide apps from your Home screen | 11.0 - 12.5.6 | Free | [Dynastic](https://repo.dynastic.co/package/hideyourapps) |
+
 # IOS 13
 
 | Feature | Name of Tweak | Description | iOS Compatibility | Price (USD) | Link & Repo |
