@@ -3,7 +3,7 @@ A list of IOS Jailbreak Tweaks that will help you get the latest features on old
 ## Table of contents
 | IOS 16 features | IOS 15 features | IOS 14 features | IOS 13 features |
 |:--------:|:-------:|:-------:|:------:|
-| [List](#ios-16)  | Coming Soon | Coming Soon | Coming Soon |
+| [List](#ios-16)  | Coming Soon | Coming Soon | [List](#ios-13) |
 
 # IOS 16
 
@@ -15,3 +15,9 @@ A list of IOS Jailbreak Tweaks that will help you get the latest features on old
 | Dynamic Island | Emerald | Emerald enhances your status bar | 12.0 - 14.4 | Free | [Havoc](https://havoc.app/package/emerald) |
 | Always On Display | Last Look | Get a last look at your phone when you lock it | 12.0 - 15.7 | $2.49 | [Chariz](https://chariz.com/buy/lastlook) |
 | Newer Apple Watches | Legizmo ‘Kincaid’ | Pair Newer Apple Watches | 13.0 - 15.7 | $4.99 | [Chariz](https://chariz.com/buy/legizmo-kincaid) |
+
+
+# IOS 13
+| Feature | Name of Tweak | Description | iOS Compatibility | Price (USD) | Link & Repo |
+|:--------:|:-------:|:-------:|:------:|:---------:|:---------:|
+| New Volume HUD | 13HUD | iOS 13 volume HUD | 11.0 - 12.4.3 | Free | [Havoc](https://havoc.app/package/13hud) |
