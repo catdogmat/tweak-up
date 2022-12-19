@@ -1,3 +1,4 @@
+
 # Tweak Up
 A list of IOS Jailbreak Tweaks that will help you get the latest features on older IOS versions.
 ## Table of contents
@@ -15,6 +16,7 @@ A list of IOS Jailbreak Tweaks that will help you get the latest features on old
 | Dynamic Island | Emerald | Emerald enhances your status bar | 12.0 - 14.4 | Free | [Havoc](https://havoc.app/package/emerald) |
 | Always On Display | Last Look | Get a last look at your phone when you lock it | 12.0 - 15.7 | $2.49 | [Chariz](https://chariz.com/buy/lastlook) |
 | Newer Apple Watches | Legizmo ‘Kincaid’ | Pair Newer Apple Watches | 13.0 - 15.7 | $4.99 | [Chariz](https://chariz.com/buy/legizmo-kincaid) |
+| Fix Password | Checkl0ck | Checkl0ck is a tweak for devices to give you back the passcode and biometric capabilities | 14.3 - 15.7.1 | $2.99 | [Havoc](https://havoc.app/package/checkl0ck) |
 
 # IOS 15
 | Feature | Name of Tweak | Description | iOS Compatibility | Price (USD) | Link & Repo |
