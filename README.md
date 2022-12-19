@@ -21,7 +21,7 @@ A list of IOS Jailbreak Tweaks that will help you get the latest features on old
 | Fix Password | Checkl0ck | Checkl0ck is a tweak for devices to give you back the passcode and biometric capabilities | 14.3 - 15.7.1 | $2.99 | [Havoc](https://havoc.app/package/checkl0ck) |
 | Live Activity Widgets | Live Activities | With this tweak, you will be able to have some of your live activities on your lock screen, including interactions with some modules | 14.0 - 14.8.1 | $2.99 | [Havoc](https://havoc.app/package/liveactivities) | [u/corazoncerebral](https://www.reddit.com/user/corazoncerebral/) |
 | Live Text | Live Text Enabler | Enable Live Text on unsupported iOS 15 devices | 15.0 - 16.2 | Free | [PoomSmart](https://poomsmart.github.io/repo/depictions/livetextenabler.html) | [u/TheInsane103](https://www.reddit.com/user/TheInsane103/) |
-| Mark Messages Unread | MarkMessagesUnread |An awesome MobileSubstrate "stand-alone" Messages tweak based on "MessageUnread" with notification badge reminder | 11.0 - 14.8.1 | Free | [Bigboss](http://cydia.saurik.com/package/com.ljinc.markmessagesunread/) |
+| Mark Messages Unread | MarkMessagesUnread |An awesome MobileSubstrate "stand-alone" Messages tweak based on "MessageUnread" with notification badge reminder | 11.0 - 14.8.1 | Free | [Bigboss](http://cydia.saurik.com/package/com.ljinc.markmessagesunread/) | [u/Doctor__Hammer](https://www.reddit.com/user/Doctor__Hammer/) |
 
 
 # IOS 15
