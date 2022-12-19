@@ -35,3 +35,8 @@ A list of IOS Jailbreak Tweaks that will help you get the latest features on old
 | Feature | Name of Tweak | Description | iOS Compatibility | Price (USD) | Link & Repo |
 |:--------:|:-------:|:-------:|:------:|:---------:|:---------:|
 | New Volume HUD | 13HUD | iOS 13 volume HUD | 11.0 - 12.4.3 | Free | [Havoc](https://havoc.app/package/13hud) |
+
+# Android
+| Feature | Name of Tweak | Description | iOS Compatibility | Price (USD) | Link & Repo |
+|:--------:|:-------:|:-------:|:------:|:---------:|:---------:|
+| Lockscreen | Waktos | Android Lockscreen | 13.0 - 14.0 | Free | [Havoc](https://havoc.app/package/waktos) |
