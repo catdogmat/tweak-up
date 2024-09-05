@@ -33,6 +33,7 @@ A curated list of iOS Jailbreak Tweaks that help you unlock the latest features 
 | Maps.app | Advanced Map Enabler | Enables globe on unsupported devices | 15.0 - 16.7.10 | Free | [Poom Smart´s Repo](https://poomsmart.github.io/repo/depictions/advancedmapenabler.html) |
 | System | ChargeLimiter | App to limit your charging and configure and view low-level settings | 12.0 - 16.7.10 | Free | [Havoc](https://havoc.app/package/chargelimiter) |
 | Music.app | ArtFull | Make the Apple Music app look like iOS 17 | 14.0 - 16.7.10 | Free | [Havoc](https://havoc.app/package/artfull) |
+| Messages.app | SwipeToReply | Enables swipe to reply gesture on iOS 16 | 15.0 - 16.7.10 | Free | [P2KDevs´s Repo](https://p2kdev.github.io/repo/) |
 | LockScreen | LastLook | Adds always-on to your lock screen | 12.0 - 16.7.10 | | [Chariz](https://chariz.com/buy/lastlook) |
 | Camera | 11Cam15 | Adds the iPhone 11 Camera App to your iPhone | 15.0 - 16.7.10 | Free | [Michael Melita´s Repo](https://havoc.app/package/aim) |
 | Keyboard | EmojiPort (iOS 12.0-17.3) | Latest emojis for iOS | 12.0 - 17.3 | Free | [Poom Smart´s Repo](https://poomsmart.github.io/repo/depictions/advancedmapenabler.html) |
