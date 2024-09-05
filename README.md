@@ -31,9 +31,12 @@ A curated list of iOS Jailbreak Tweaks that help you unlock the latest features 
 | **Feature** | **Name of Tweak** | **Description** | **iOS Compatibility** | **Price (USD)** | **Link & Repo** | **Added By** |
 |:--------:|:-------:|:-------:|:------:|:---------:|:---------:|:--------:|
 | Maps.app | Advanced Map Enabler | Enables globe on unsupported devices | 15.0 - 16.7.10 | Free | [Poom Smart´s Repo](https://poomsmart.github.io/repo/depictions/advancedmapenabler.html) |
+| Translations.app | LatestTranslate | Make Apple's Translate app support all languages to date. | 14.0 - 16.7.10 | Free | [Poom Smart´s Repo](https://poomsmart.github.io/repo/depictions/latesttranslate.html) |
+| System | DarkPods | Backport the iOS 17 AirPods popup to iOS 14-16 | 14.0 - 16.7.10 | Free | [iCraze's Repo](https://repo.icrazeios.com/) |
 | System | ChargeLimiter | App to limit your charging and configure and view low-level settings | 12.0 - 16.7.10 | Free | [Havoc](https://havoc.app/package/chargelimiter) |
 | Music.app | ArtFull | Make the Apple Music app look like iOS 17 | 14.0 - 16.7.10 | Free | [Havoc](https://havoc.app/package/artfull) |
-| LockScreen | LastLook | Adds always-on to your lock screen | 12.0 - 16.7.10 | | [Chariz](https://chariz.com/buy/lastlook) |
+| Messages.app | SwipeToReply | Enables swipe to reply gesture on iOS 16 | 15.0 - 16.7.10 | Free | [P2KDevs´s Repo](https://p2kdev.github.io/repo/) |
+| LockScreen | LastLook | Adds always-on to your lock screen | 12.0 - 16.7.10 | $3.99 | [Chariz](https://chariz.com/buy/lastlook) |
 | Camera | 11Cam15 | Adds the iPhone 11 Camera App to your iPhone | 15.0 - 16.7.10 | Free | [Michael Melita´s Repo](https://havoc.app/package/aim) |
 | Keyboard | EmojiPort (iOS 12.0-17.3) | Latest emojis for iOS | 12.0 - 17.3 | Free | [Poom Smart´s Repo](https://poomsmart.github.io/repo/depictions/advancedmapenabler.html) |
 
@@ -52,7 +55,7 @@ A curated list of iOS Jailbreak Tweaks that help you unlock the latest features 
 | Authentication | checkl0ck | checkl0ck is a tweak for devices to give you back the passcode and biometric capabilities | 14.3 - 16.7.10 | $3.99 | [Havoc](https://havoc.app/package/checkl0ck) |
 | Live Activity Widgets | Live Activities | Have some of your live activities on your lock screen, including interactions with some modules | 14.0 - 14.8.1 | $2.99 | [Havoc](https://havoc.app/package/liveactivities) | [u/corazoncerebral](https://www.reddit.com/user/corazoncerebral/) |
 | Live Text | Live Text Enabler | Enable Live Text on unsupported iOS 15 devices | 15.0 - 16.7.10 | Free | [PoomSmart](https://poomsmart.github.io/repo/depictions/livetextenabler.html) | [u/TheInsane103](https://www.reddit.com/user/TheInsane103/) |
-| Mark Messages Unread | MarkMessagesUnread | An awesome MobileSubstrate "stand-alone" Messages tweak based on "MessageUnread" with notification badge reminder | 11.0 - 14.8.1 | Free | [Bigboss](http://cydia.saurik.com/package/com.ljinc.markmessagesunread/) | [u/Doctor__Hammer](https://www.reddit.com/user/Doctor__Hammer/) |
+| Mark Messages Unread | MarkMessagesUnread | An tweak based on "MessageUnread" with notification badge reminder | 11.0 - 14.8.1 | Free | [Bigboss](http://cydia.saurik.com/package/com.ljinc.markmessagesunread/) | [u/Doctor__Hammer](https://www.reddit.com/user/Doctor__Hammer/) |
 
 ---
 
@@ -87,6 +90,7 @@ A curated list of iOS Jailbreak Tweaks that help you unlock the latest features 
 | **Feature** | **Name of Tweak** | **Description** | **iOS Compatibility** | **Price (USD)** | **Link & Repo** | **Added By** |
 |:--------:|:-------:|:-------:|:------:|:---------:|:---------:|:--------:|
 | HomeScreen | VisionSearchPill | Add a flare of visionOS to your search pill | 16.0 - 16.7.10 (Higher versions not tested) | Free | [GitHub](https://github.com/NightwindDev/VisionSearchPill) |
+| Dock | Glif | SnowBoard theme with 2 visionOS dock variants to select from | 14.0 - 16.7.10 | Free | Found in one repo containing cracks, no link, even though this theme seems to be original from them. |
 
 ---
 
