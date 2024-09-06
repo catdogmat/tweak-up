@@ -5,20 +5,36 @@ A curated list of iOS Jailbreak Tweaks that help you unlock the latest features 
 
 ## Table of Contents
 
-- 🎨 [iOS 18 Features](#ios-18)
-- 🗺️ [iOS 17 Features](#ios-17)
-- 🔋 [iOS 16 Features](#ios-16)
-- 🧩 [iOS 15 Features](#ios-15)
-- 📦 [iOS 14 Features](#ios-14)
-- 🎛️ [iOS 13 Features](#ios-13)
-- 🖥️ [visionOS Features](#visionos)
-- ⌚ [watchOS Features](#watchos)
-- 📱 [Android Features](#android)
-- 🛠️ [Useful Features](#useful-features)
+- **Jailbreak Tweaks**
+    - 🎨 [iOS 18](#ios-18)
+    - 🗺️ [iOS 17](#ios-17)
+    - 🔋 [iOS 16](#ios-16)
+    - 🧩 [iOS 15](#ios-15)
+    - 📦 [iOS 14](#ios-14)
+    - 🎛️ [iOS 13](#ios-13)
+    - 🖥️ [visionOS](#visionos)
+    - ⌚ [watchOS](#watchos)
+    - 📱 [Android](#android)
+    - 🛠️ [Useful Features](#useful-features)
+
+- **iOS Factory Enhancments**
+By now (09/06/2024) it is possible to unlock almost every feature on factory (jailed) iOS like AOD, StageManager and much more. Please refer to the Cowabunga Discord or MisakaX Github for downloads and support.
+
+    - 🌐 [Dynamic Island](#dynamic-island)
+    - 🌐 [Boot Chime](#boot-chime)
+    - 🌐 [Charge Limit](#charge-limit)
+    - 🌐 [Stage Manager](#stage-manager)
+    - 🌐 [Detailed "Others" storage view](#internal-storage)
+    - 🌐 [Show Apple Pencil preferences](#pencil-preferences)
+    - 🌐 [Show Action Button preferences](#action-preferences)
+    - 🌐 [Disable Shutter sound](#no-shutter)
+    - 🌐 [Enable SOS Collision](#sos-collision)
+    - 🌐 [Enable TapToWake (SE2/3)](#tap-wake)
+    - 🌐 [Landscape FaceID](#landscape-faceid)
+    - 🌐 [Apple Intelligence for supported devices](#apple-ai)
 
 ---
-
-# 🎨 iOS 18
+# iOS 18 
 
 | **Feature** | **Name of Tweak** | **Description** | **iOS Compatibility** | **Price (USD)** | **Link & Repo** | **Added By** |
 |:--------:|:-------:|:-------:|:------:|:---------:|:---------:|:--------:|
@@ -26,7 +42,7 @@ A curated list of iOS Jailbreak Tweaks that help you unlock the latest features 
 
 ---
 
-# 🗺️ iOS 17
+# iOS 17
 
 | **Feature** | **Name of Tweak** | **Description** | **iOS Compatibility** | **Price (USD)** | **Link & Repo** | **Added By** |
 |:--------:|:-------:|:-------:|:------:|:---------:|:---------:|:--------:|
@@ -42,7 +58,7 @@ A curated list of iOS Jailbreak Tweaks that help you unlock the latest features 
 
 ---
 
-# 🔋 iOS 16
+# iOS 16
 
 | **Feature** | **Name of Tweak** | **Description** | **iOS Compatibility** | **Price (USD)** | **Link & Repo** | **Added By** |
 |:--------:|:-------:|:-------:|:------:|:---------:|:---------:|:--------:|
@@ -59,7 +75,7 @@ A curated list of iOS Jailbreak Tweaks that help you unlock the latest features 
 
 ---
 
-# 🧩 iOS 15
+# iOS 15
 
 | **Feature** | **Name of Tweak** | **Description** | **iOS Compatibility** | **Price (USD)** | **Link & Repo** | **Added By** |
 |:--------:|:-------:|:-------:|:------:|:---------:|:---------:|:--------:|
@@ -67,7 +83,7 @@ A curated list of iOS Jailbreak Tweaks that help you unlock the latest features 
 
 ---
 
-# 📦 iOS 14
+# iOS 14
 
 | **Feature** | **Name of Tweak** | **Description** | **iOS Compatibility** | **Price (USD)** | **Link & Repo** | **Added By** |
 |:--------:|:-------:|:-------:|:------:|:---------:|:---------:|:--------:|
@@ -77,7 +93,7 @@ A curated list of iOS Jailbreak Tweaks that help you unlock the latest features 
 
 ---
 
-# 🎛️ iOS 13
+# iOS 13
 
 | **Feature** | **Name of Tweak** | **Description** | **iOS Compatibility** | **Price (USD)** | **Link & Repo** | **Added By** |
 |:--------:|:-------:|:-------:|:------:|:---------:|:---------:|:--------:|
@@ -85,7 +101,7 @@ A curated list of iOS Jailbreak Tweaks that help you unlock the latest features 
 
 ---
 
-# 🖥️ visionOS
+# visionOS
 
 | **Feature** | **Name of Tweak** | **Description** | **iOS Compatibility** | **Price (USD)** | **Link & Repo** | **Added By** |
 |:--------:|:-------:|:-------:|:------:|:---------:|:---------:|:--------:|
@@ -94,7 +110,7 @@ A curated list of iOS Jailbreak Tweaks that help you unlock the latest features 
 
 ---
 
-# ⌚ watchOS
+# watchOS
 
 | **Feature** | **Name of Tweak** | **Description** | **iOS Compatibility** | **Price (USD)** | **Link & Repo** | **Added By** |
 |:--------:|:-------:|:-------:|:------:|:---------:|:---------:|:--------:|
@@ -102,7 +118,7 @@ A curated list of iOS Jailbreak Tweaks that help you unlock the latest features 
 
 ---
 
-# 📱 Android
+# Android
 
 | **Feature** | **Name of Tweak** | **Description** | **iOS Compatibility** | **Price (USD)** | **Link & Repo** | **Added By** |
 |:--------:|:-------:|:-------:|:------:|:---------:|:---------:|:--------:|
@@ -110,7 +126,7 @@ A curated list of iOS Jailbreak Tweaks that help you unlock the latest features 
 
 ---
 
-# 🛠️ Useful Features
+# Useful Features
 
 | **Feature** | **Name of Tweak** | **Description** | **iOS Compatibility** | **Price (USD)** | **Link & Repo** | **Added By** |
 |:--------:|:-------:|:-------:|:------:|:---------:|:---------:|:--------:|
@@ -118,3 +134,154 @@ A curated list of iOS Jailbreak Tweaks that help you unlock the latest features 
 | Control Center | RingerToggle (CCSupport) | Add ringer toggle to your control center | 14.0 - 16.7.10 | Free | [ichitaso repository](https://cydia.ichitaso.com/) |
 
 ---
+# Dynamic Island
+
+## iPhones
+
+| **Device**      | **iOS version supported** | **Working** | **Known issues** | 
+|:----------------:|:---------------------:|:-----------:|:----------------:|
+| iPhone X         | iOS 16.0 - 16.7        | ⏳          |                   |
+| iPhone XR        | iOS 16.0 - 17.0        | ⏳          |                   |
+| iPhone XS        | iOS 16.0 - 17.0        | ⏳          |                   |
+| iPhone XS Max    | iOS 16.0 - 17.0        | ⏳          |                   |
+| iPhone 11        | iOS 16.0 - 17.0        | ⏳          |                   |
+| iPhone 11 Pro    | iOS 16.0 - 17.0        | ⏳          |                   |
+| iPhone 11 Pro Max| iOS 16.0 - 17.0        | ⏳          |                   |
+| iPhone 12        | iOS 16.0 - 18.0        | ⏳          |                   |
+| iPhone 12 Mini   | iOS 16.0 - 18.0        | ✅          |                   |
+| iPhone 12 Pro    | iOS 16.0 - 18.0        | ⏳          |                   |
+| iPhone 12 Pro Max| iOS 16.0 - 18.0        | ⏳          |                   |
+| iPhone 13        | iOS 16.0 - 18.0        | ⏳          |                   |
+| iPhone 13 Mini   | iOS 16.0 - 18.0        | ⏳          |                   |
+| iPhone 13 Pro    | iOS 16.0 - 18.0        | ⏳          |                   |
+| iPhone 13 Pro Max| iOS 16.0 - 18.0        | ⏳          |                   |
+| iPhone 14        | iOS 16.0 - 18.0        | ⏳          |                   |
+| iPhone 14 Plus   | iOS 16.0 - 18.0        | ⏳          |                   |
+
+## iPads
+
+| **Device**      | **iPadOS version supported** | **Working** | **Known issues** | 
+|:----------------:|:---------------------:|:-----------:|:----------------:|
+| iPad Air 3       | iPadOS 16.0 - 17.0    | ⏳          |                   |
+| iPad Air 4       | iPadOS 16.0 - 18.0    | ✅          |                   |
+| iPad Air 5       | iPadOS 16.0 - 18.0    | ⏳          |                   |
+| iPad Mini 6      | iPadOS 16.0 - 18.0    | ⏳          |                   |
+| iPad Pro 11" (1st gen) | iPadOS 16.0 - 17.0 | ⏳          |                   |
+| iPad Pro 11" (2nd gen) | iPadOS 16.0 - 18.0 | ⏳          |                   |
+| iPad Pro 11" (3rd gen) | iPadOS 16.0 - 18.0 | ⏳          |                   |
+| iPad Pro 11" (4th gen) | iPadOS 16.0 - 18.0 | ⏳          |                   |
+| iPad Pro 12.9" (3rd gen) | iPadOS 16.0 - 18.0 | ⏳        |                   |
+| iPad Pro 12.9" (4th gen) | iPadOS 16.0 - 18.0 | ⏳        |                   |
+| iPad Pro 12.9" (5th gen) | iPadOS 16.0 - 18.0 | ⏳        |                   |
+
+---
+# BootChime
+
+## iPhones
+
+| **Device**      | **iOS version supported** | **Working** | **Known issues** | 
+|:----------------:|:---------------------:|:-----------:|:----------------:|
+| iPhone XR        | iOS 17.0 - 18.0        | ⏳          |                   |
+| iPhone XS        | iOS 17.0 - 18.0        | ⏳          |                   |
+| iPhone XS Max    | iOS 17.0 - 18.0        | ⏳          |                   |
+| iPhone 11        | iOS 17.0 - 18.0        | ⏳          |                   |
+| iPhone 11 Pro    | iOS 17.0 - 18.0        | ⏳          |                   |
+| iPhone 11 Pro Max| iOS 17.0 - 18.0        | ⏳          |                   |
+| iPhone SE (2nd)  | iOS 17.0 - 18.0        | ⏳          |                   |
+| iPhone 12        | iOS 17.0 - 18.0        | ⏳          |                   |
+| iPhone 12 Mini   | iOS 17.0 - 18.0        | ✅          |                   |
+| iPhone 12 Pro    | iOS 17.0 - 18.0        | ⏳          |                   |
+| iPhone 12 Pro Max| iOS 17.0 - 18.0        | ⏳          |                   |
+| iPhone 13        | iOS 17.0 - 18.0        | ⏳          |                   |
+| iPhone 13 Mini   | iOS 17.0 - 18.0        | ⏳          |                   |
+| iPhone 13 Pro    | iOS 17.0 - 18.0        | ⏳          |                   |
+| iPhone 13 Pro Max| iOS 17.0 - 18.0        | ⏳          |                   |
+| iPhone SE (3rd)  | iOS 17.0 - 18.0        | ⏳          |                   |
+| iPhone 14        | iOS 17.0 - 18.0        | ⏳          |                   |
+| iPhone 14 Plus   | iOS 17.0 - 18.0        | ⏳          |                   |
+
+## iPads
+
+| **Device**      | **iPadOS version supported** | **Working** | **Known issues** | 
+|:----------------:|:---------------------:|:-----------:|:----------------:|
+| iPad (8th gen)   | iPadOS 17.0 - 18.0     | ⏳          |                   |
+| iPad (9th gen)   | iPadOS 17.0 - 18.0     | ⏳          |                   |
+| iPad (10th gen)  | iPadOS 17.0 - 18.0     | ⏳          |                   |
+| iPad Air 3       | iPadOS 17.0            | ⏳          |                   |
+| iPad Air 4       | iPadOS 17.0 - 18.0     | ✅          |                   |
+| iPad Air 5       | iPadOS 17.0 - 18.0     | ⏳          |                   |
+| iPad Mini 6      | iPadOS 17.0 - 18.0     | ⏳          |                   |
+| iPad Pro 11" (1st gen) | iPadOS 17.0     | ⏳          |                   |
+| iPad Pro 11" (2nd gen) | iPadOS 17.0 - 18.0 | ⏳          |                   |
+| iPad Pro 11" (3rd gen) | iPadOS 17.0 - 18.0 | ⏳          |                   |
+| iPad Pro 11" (4th gen) | iPadOS 17.0 - 18.0 | ⏳          |                   |
+| iPad Pro 12.9" (3rd gen) | iPadOS 17.0 - 18.0 | ⏳        |                   |
+| iPad Pro 12.9" (4th gen) | iPadOS 17.0 - 18.0 | ⏳        |                   |
+| iPad Pro 12.9" (5th gen) | iPadOS 17.0 - 18.0 | ⏳        |                   |
+| iPad Pro 12.9" (6th gen) | iPadOS 17.0 - 18.0 | ⏳        |                   |
+
+---
+# AoD (Always on Display)
+
+## iPhones
+
+| **Device**      | **iOS version supported** | **Working** | **Known issues** | 
+|:----------------:|:---------------------:|:-----------:|:----------------:|
+| iPhone 12        | iOS 18.0               | ⏳          |                   |
+| iPhone 12 Mini   | iOS 18.0               | ✅          |                   |
+| iPhone 12 Pro    | iOS 18.0               | ⏳          |                   |
+| iPhone 12 Pro Max| iOS 18.0               | ⏳          |                   |
+| iPhone 13        | iOS 18.0               | ⏳          |                   |
+| iPhone 13 Mini   | iOS 18.0               | ⏳          |                   |
+| iPhone SE (3rd)  | iOS 18.0               | ⏳          |                   |
+| iPhone 14        | iOS 18.0               | ⏳          |                   |
+| iPhone 14 Plus   | iOS 18.0               | ⏳          |                   |
+| iPhone 15        | iOS 18.0               | ⏳          |                   |
+| iPhone 15 Plus   | iOS 18.0               | ⏳          |                   |
+
+## iPads
+
+| **Device**      | **iPadOS version supported** | **Working** | **Known issues** | 
+|:----------------:|:---------------------:|:-----------:|:----------------:|
+| iPad (9th gen)   | iPadOS 18.0            | ⏳          |                   |
+| iPad (10th gen)  | iPadOS 18.0            | ⏳          |                   |
+| iPad Air 4       | iPadOS 18.0            | ⏳          |                   |
+| iPad Air 5       | iPadOS 18.0            | ⏳          |                   |
+| iPad Mini 6      | iPadOS 18.0            | ⏳          |                   |
+| iPad Pro 11" (2nd gen) | iPadOS 18.0      | ⏳          |                   |
+| iPad Pro 11" (3rd gen) | iPadOS 18.0      | ⏳          |                   |
+| iPad Pro 11" (4th gen) | iPadOS 18.0      | ⏳          |                   |
+| iPad Pro 12.9" (3rd gen) | iPadOS 18.0    | ⏳          |                   |
+| iPad Pro 12.9" (4th gen) | iPadOS 18.0    | ⏳          |                   |
+| iPad Pro 12.9" (5th gen) | iPadOS 18.0    | ⏳          |                   |
+| iPad Pro 12.9" (6th gen) | iPadOS 18.0    | ⏳          |                   |
+
+---
+# Landscape FaceID
+
+## iPhones
+
+| **Device**      | **iOS version supported** | **Working** | **Known issues** | 
+|:----------------:|:---------------------:|:-----------:|:----------------:|
+| iPhone X         | iOS 17.0 - 18.0        | ⏳          |                   |
+| iPhone XR        | iOS 17.0 - 18.0        | ⏳          |                   |
+| iPhone XS        | iOS 17.0 - 18.0        | ⏳          |                   |
+| iPhone XS Max    | iOS 17.0 - 18.0        | ⏳          |                   |
+| iPhone 11        | iOS 17.0 - 18.0        | ⏳          |                   |
+| iPhone 11 Pro    | iOS 17.0 - 18.0        | ⏳          |                   |
+| iPhone 11 Pro Max| iOS 17.0 - 18.0        | ⏳          |                   |
+| iPhone 12        | iOS 17.0 - 18.0        | ⏳          |                   |
+| iPhone 12 Mini   | iOS 17.0 - 18.0        | ⏳          |                   |
+| iPhone 12 Pro    | iOS 17.0 - 18.0        | ⏳          |                   |
+| iPhone 12 Pro Max| iOS 17.0 - 18.0        | ⏳          |                   |
+| iPhone 13        | iOS 17.0 - 18.0        | ⏳          |                   |
+| iPhone 13 Mini   | iOS 17.0 - 18.0        | ⏳          |                   |
+
+## iPads
+
+| **Device**      | **iPadOS version supported** | **Working** | **Known issues** | 
+|:----------------:|:---------------------:|:-----------:|:----------------:|
+| iPad Pro 11" (1st gen) | iPadOS 17.0 - 18.0 | ⏳          |                   |
+| iPad Pro 11" (2nd gen) | iPadOS 17.0 - 18.0 | ⏳          |                   |
+| iPad Pro 12.9" (3rd gen) | iPadOS 17.0 - 18.0 | ⏳        |                   |
+| iPad Pro 12.9" (4th gen) | iPadOS 17.0 - 18.0 | ⏳        |                   |
