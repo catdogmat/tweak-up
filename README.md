@@ -18,7 +18,7 @@ A curated list of iOS Jailbreak Tweaks that help you unlock the latest features 
     - 📱 [Android](#android)
     - 🛠️ [Useful Features](#useful-features)
 
-- **[iOS Factory Enhancements](#factory-enhancements)**
+- **[Factory Enhancements](#factory-enhancements)**
 By now (09/06/2024) it is possible to unlock almost every feature on factory (jailed) iOS like AOD, StageManager and much more. Please refer to the [Cowabunga Discord](https://discord.gg/k6qgpV4Q) for Nugget or [MisakaX Github](https://github.com/straight-tamago/misakaX) for downloads and support.
 
     - 🌐 [Dynamic Island](#dynamic-island)
@@ -138,6 +138,8 @@ By now (09/06/2024) it is possible to unlock almost every feature on factory (ja
 | Control Center | RingerToggle (CCSupport) | Add ringer toggle to your control center | 14.0 - 16.7.10 | Free | [ichitaso repository](https://cydia.ichitaso.com/) |
 
 ---
+
+# Factory Enhancements
 # Dynamic Island
 
 ## iPhones
