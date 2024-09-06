@@ -5,7 +5,7 @@ A curated list of iOS Jailbreak Tweaks that help you unlock the latest features 
 
 ## Table of Contents
 
-- **Jailbreak Tweaks**
+- **[Jailbreak Tweaks](#jailbreak-tweaks)**
     - 🎨 [iOS 18](#ios-18)
     - 🗺️ [iOS 17](#ios-17)
     - 🔋 [iOS 16](#ios-16)
@@ -17,8 +17,8 @@ A curated list of iOS Jailbreak Tweaks that help you unlock the latest features 
     - 📱 [Android](#android)
     - 🛠️ [Useful Features](#useful-features)
 
-- **iOS Factory Enhancments**
-By now (09/06/2024) it is possible to unlock almost every feature on factory (jailed) iOS like AOD, StageManager and much more. Please refer to the Cowabunga Discord or MisakaX Github for downloads and support.
+- **[iOS Factory Enhancements](#factory-enhancements)**
+By now (09/06/2024) it is possible to unlock almost every feature on factory (jailed) iOS like AOD, StageManager and much more. Please refer to the [Cowabunga Discord](https://discord.gg/k6qgpV4Q) for Nugget or [MisakaX Github](https://github.com/straight-tamago/misakaX) for downloads and support.
 
     - 🌐 [Dynamic Island](#dynamic-island)
     - 🌐 [Boot Chime](#boot-chime)
@@ -33,6 +33,8 @@ By now (09/06/2024) it is possible to unlock almost every feature on factory (ja
     - 🌐 [Landscape FaceID](#landscape-faceid)
     - 🌐 [Apple Intelligence for supported devices](#apple-ai)
 
+
+# Jailbreak tweaks
 ---
 # iOS 18 
 
@@ -175,7 +177,7 @@ By now (09/06/2024) it is possible to unlock almost every feature on factory (ja
 | iPad Pro 12.9" (5th gen) | iPadOS 16.0 - 18.0 | ⏳        |                   |
 
 ---
-# BootChime
+# Boot Chime
 
 ## iPhones
 
@@ -285,3 +287,119 @@ By now (09/06/2024) it is possible to unlock almost every feature on factory (ja
 | iPad Pro 11" (2nd gen) | iPadOS 17.0 - 18.0 | ⏳          |                   |
 | iPad Pro 12.9" (3rd gen) | iPadOS 17.0 - 18.0 | ⏳        |                   |
 | iPad Pro 12.9" (4th gen) | iPadOS 17.0 - 18.0 | ⏳        |                   |
+---
+
+# Charge Limit
+
+## iPhones
+
+| **Device**      | **iOS version supported** | **Working** | **Known issues** |
+|:----------------:|:---------------------:|:-----------:|:----------------:|
+| iPhone 12        | iOS 17.0 - 18.0        | ⏳          |                   |
+| iPhone 12 Mini   | iOS 17.0 - 18.0        | ✅          |                   |
+| iPhone 13        | iOS 17.0 - 18.0        | ⏳          |                   |
+| iPhone 13 Mini   | iOS 17.0 - 18.0        | ⏳          |                   |
+| iPhone 13 Pro    | iOS 17.0 - 18.0        | ⏳          |                   |
+| iPhone 13 Pro Max| iOS 17.0 - 18.0        | ⏳          |                   |
+| iPhone 14        | iOS 17.0 - 18.0        | ⏳          |                   |
+| iPhone 14 Plus   | iOS 17.0 - 18.0        | ⏳          |                   |
+| iPhone 14 Pro    | iOS 17.0 - 18.0        | ⏳          |                   |
+| iPhone 14 Pro Max| iOS 17.0 - 18.0        | ⏳          |                   |
+
+---
+
+# Stage Manager
+
+## iPads
+
+| **Device**      | **iPadOS version supported** | **Working** | **Known issues** |
+|:----------------:|:---------------------:|:-----------:|:----------------:|
+| iPad Air 3       | iPadOS 16.0 - 17.0    | ⏳          |                   |
+| iPad Air 4       | iPadOS 16.0 - 18.0    | ✅          |                   |
+| iPad Pro 10.5"   | iPadOS 16.0 - 17.0    | ⏳          |                   |
+| iPad Pro 12.9" (2nd gen) | iPadOS 16.0 - 17.0 | ⏳        |                   |
+| iPad Pro 11" (1st gen)   | iPadOS 16.0 - 18.0 | ⏳        |                   |
+| iPad Pro 12.9" (3rd gen) | iPadOS 16.0 - 18.0 | ⏳        |                   |
+
+---
+
+# Show Apple Pencil preferences
+
+## iPads
+
+| **Device**      | **iPadOS version supported** | **Working** | **Known issues** |
+|:----------------:|:---------------------:|:-----------:|:----------------:|
+| iPad Air 3       | iPadOS 17.0 - 18.0    | ⏳          |                   |
+| iPad Air 4       | iPadOS 17.0 - 18.0    | ⏳          |                   |
+| iPad Mini 5      | iPadOS 17.0 - 18.0    | ⏳          |                   |
+| iPad Pro 10.5"   | iPadOS 17.0 - 18.0    | ⏳          |                   |
+| iPad Pro 12.9" (2nd gen) | iPadOS 17.0 - 18.0 | ⏳        |                   |
+
+---
+
+# Show Action Button preferences
+
+## iPhones
+
+| **Device**      | **iOS version supported** | **Working** | **Known issues** |
+|:----------------:|:---------------------:|:-----------:|:----------------:|
+| iPhone 12        | iOS 17.0 - 18.0        | ✅          | No image assets available  |
+| iPhone 12 Mini   | iOS 17.0 - 18.0        | ⏳          |                   |
+| iPhone 13        | iOS 17.0 - 18.0        | ⏳          |                   |
+| iPhone 13 Mini   | iOS 17.0 - 18.0        | ⏳          |                   |
+| iPhone 13 Pro    | iOS 17.0 - 18.0        | ⏳          |                   |
+| iPhone 13 Pro Max| iOS 17.0 - 18.0        | ⏳          |                   |
+
+---
+
+# Disable Shutter sound
+
+## iPhones
+
+| **Device**      | **iOS version supported** | **Working** | **Known issues** |
+|:----------------:|:---------------------:|:-----------:|:----------------:|
+| iPhone 12        | iOS 17.0 - 18.0        | ⏳          |                   |
+| iPhone 12 Mini   | iOS 17.0 - 18.0        | ⏳          |                   |
+| iPhone 13        | iOS 17.0 - 18.0        | ⏳          |                   |
+| iPhone 13 Mini   | iOS 17.0 - 18.0        | ⏳          |                   |
+| iPhone 13 Pro    | iOS 17.0 - 18.0        | ⏳          |                   |
+| iPhone 13 Pro Max| iOS 17.0 - 18.0        | ⏳          |                   |
+| iPhone 14        | iOS 17.0 - 18.0        | ⏳          |                   |
+| iPhone 14 Plus   | iOS 17.0 - 18.0        | ⏳          |                   |
+
+---
+
+# Enable SOS Collision
+
+## iPhones
+
+| **Device**      | **iOS version supported** | **Working** | **Known issues** |
+|:----------------:|:---------------------:|:-----------:|:----------------:|
+| iPhone 12        | iOS 17.0 - 18.0        | ✅          |                   |
+| iPhone 12 Mini   | iOS 17.0 - 18.0        | ✅          |                   |
+| iPhone 13        | iOS 17.0 - 18.0        | ⏳          |                   |
+| iPhone 13 Mini   | iOS 17.0 - 18.0        | ⏳          |                   |
+| iPhone 13 Pro    | iOS 17.0 - 18.0        | ⏳          |                   |
+| iPhone 13 Pro Max| iOS 17.0 - 18.0        | ⏳          |                   |
+
+---
+
+# Enable TapToWake (SE2/3)
+
+## iPhones
+
+| **Device**      | **iOS version supported** | **Working** | **Known issues** |
+|:----------------:|:---------------------:|:-----------:|:----------------:|
+| iPhone SE (2nd gen) | iOS 17.0 - 18.0     | ✅          |                   |
+| iPhone SE (3rd gen) | iOS 17.0 - 18.0     | ✅          |                   |
+
+---
+
+# Apple Intelligence
+
+## iPhones
+
+| **Device**      | **iOS version supported** | **Working** | **Known issues** |
+|:----------------:|:---------------------:|:-----------:|:----------------:|
+| iPhone 15        | iOS 18.0               | ✅          |                   |
+| iPhone 15 Plus   | iOS 18.0               | ✅          |                   |
