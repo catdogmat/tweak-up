@@ -41,6 +41,7 @@ By now (09/06/2024) it is possible to unlock almost every feature on factory (ja
 
 | **Feature** | **Name of Tweak** | **Description** | **iOS Compatibility** | **Price (USD)** | **Link & Repo** | **Added By** |
 |:--------:|:-------:|:-------:|:------:|:---------:|:---------:|:--------:|
+| LockScreen | QuickActions | Remap or remove quick action buttons | 13 - 16.7.10 | Free | [Chariz](https://chariz.com/buy/quickactions) |
 | Homescreen | ShadowBuster | Remove shadows from Homescreen labels like in iOS 18 | 14 - 16.7.10 | Free | [Lizynz's Repo](https://lizynz.github.io/) |
 | Design | Solstice | iOS 18 dark system-wide theme | 5.0 - 17.5 | $2.99 | [Chariz](https://chariz.com/buy/solstice) |
 
