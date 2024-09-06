@@ -1,6 +1,7 @@
 # Tweak Up
 A curated list of iOS Jailbreak Tweaks that help you unlock the latest features on older iOS versions. This guide is organized by iOS version to help you quickly find the tweaks you need.
 
+
 ---
 
 ## Table of Contents
@@ -40,6 +41,7 @@ By now (09/06/2024) it is possible to unlock almost every feature on factory (ja
 
 | **Feature** | **Name of Tweak** | **Description** | **iOS Compatibility** | **Price (USD)** | **Link & Repo** | **Added By** |
 |:--------:|:-------:|:-------:|:------:|:---------:|:---------:|:--------:|
+| Homescreen | ShadowBuster | Remove shadows from Homescreen labels like in iOS 18 | 14 - 16.7.10 | Free | [Lizynz's Repo](https://lizynz.github.io/) |
 | Design | Solstice | iOS 18 dark system-wide theme | 5.0 - 17.5 | $2.99 | [Chariz](https://chariz.com/buy/solstice) |
 
 ---
