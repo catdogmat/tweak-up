@@ -19,7 +19,7 @@ A curated list of iOS Jailbreak Tweaks that help you unlock the latest features 
     - 🛠️ [Useful Features](#useful-features)
 
 - **[Factory Enhancements](#factory-enhancements)**
-By now (09/06/2024) it is possible to unlock almost every feature on factory (jailed) iOS like AOD, StageManager and much more. Please refer to the [Cowabunga Discord](https://discord.gg/k6qgpV4Q) for Nugget or [MisakaX Github](https://github.com/straight-tamago/misakaX) for downloads and support.
+It is possible to unlock almost every feature on factory (jailed) iOS like AOD, StageManager and much more including 18beta10 or 18.1beta1. Please refer to the [Cowabunga Discord](https://discord.gg/k6qgpV4Q) for Nugget or [MisakaX Github](https://github.com/straight-tamago/misakaX) for downloads and support.
 
     - 🌐 [Dynamic Island](#dynamic-island)
     - 🌐 [Boot Chime](#boot-chime)
@@ -42,6 +42,8 @@ By now (09/06/2024) it is possible to unlock almost every feature on factory (ja
 | **Feature** | **Name of Tweak** | **Description** | **iOS Compatibility** | **Price (USD)** | **Link & Repo** | **Added By** |
 |:--------:|:-------:|:-------:|:------:|:---------:|:---------:|:--------:|
 | LockScreen | QuickActions | Remap or remove quick action buttons | 13 - 16.7.10 | Free | [Chariz](https://chariz.com/buy/quickactions) |
+| Photos.app | LoopVideos | Loop videos in Photos app. | 14.0 - 16.7.10 | Free | [Poom Smart´s Repo](https://poomsmart.github.io/repo/depictions/advancedmapenabler.html) |
+| Camera.app | RecordPause | Pause/resume video recording | 15.0 - 16.7.10 | Free | [Poom Smart´s Repo](https://poomsmart.github.io/repo/depictions/advancedmapenabler.html) |
 | Homescreen | ShadowBuster | Remove shadows from Homescreen labels like in iOS 18 | 14 - 16.7.10 | Free | [Lizynz's Repo](https://lizynz.github.io/) |
 | Design | Solstice | iOS 18 dark system-wide theme | 5.0 - 17.5 | $2.99 | [Chariz](https://chariz.com/buy/solstice) |
 
