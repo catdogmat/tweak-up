@@ -42,7 +42,7 @@ It is possible to unlock almost every feature on factory (jailed) iOS like AOD, 
 | **Feature** | **Name of Tweak** | **Description** | **iOS Compatibility** | **Price (USD)** | **Link & Repo** | **Added By** |
 |:--------:|:-------:|:-------:|:------:|:---------:|:---------:|:--------:|
 | System | PopOutButtons | iOS 18 button popout animation | 13.0 - 17.5 | Free | [Chariz](https://chariz.com/get/popoutbuttons) |
-| SpringBoard | Griddy | Place icons and widgets freely on Homescreen | 15.0 - 16.7.10 | Free | [Havoc](https://havoc.app/depiction/griddy) |
+| Homescreen | Griddy | Place icons and widgets freely on Homescreen | 15.0 - 16.7.10 | $1.49 | [Havoc](https://havoc.app/depiction/griddy) |
 | Design | Solstice | iOS 18 dark system-wide theme | 5.0 - 17.5 | $2.99 | [Chariz](https://chariz.com/buy/solstice) |
 | LockScreen | QuickActions | Remap or remove quick action buttons | 13 - 16.7.10 | Free | [Chariz](https://chariz.com/buy/quickactions) |
 | Photos.app | LoopVideos | Loop videos in Photos app. | 14.0 - 16.7.10 | Free | [Poom Smart´s Repo](https://poomsmart.github.io/repo/depictions/advancedmapenabler.html) |
