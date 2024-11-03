@@ -41,6 +41,7 @@ It is possible to unlock almost every feature on factory (jailed) iOS like AOD, 
 
 | **Feature** | **Name of Tweak** | **Description** | **iOS Compatibility** | **Price (USD)** | **Link & Repo** | **Added By** |
 |:--------:|:-------:|:-------:|:------:|:---------:|:---------:|:--------:|
+| Lockscreen | NotificationsGroupCount | iOS 18.1 notification stack count | 15.0 - 16.0 | $1.50 | [0xkuj's Repo](https://0xkuj.yourepo.com/pack/notificationsgroupcount) |
 | System | PopOutButtons | iOS 18 button popout animation | 13.0 - 17.5 | Free | [Chariz](https://chariz.com/get/popoutbuttons) |
 | Homescreen | Griddy | Place icons and widgets freely on Homescreen | 15.0 - 16.7.10 | $1.49 | [Havoc](https://havoc.app/depiction/griddy) |
 | Design | Solstice | iOS 18 dark system-wide theme | 5.0 - 17.5 | $2.99 | [Chariz](https://chariz.com/buy/solstice) |
@@ -73,6 +74,7 @@ It is possible to unlock almost every feature on factory (jailed) iOS like AOD, 
 
 | **Feature** | **Name of Tweak** | **Description** | **iOS Compatibility** | **Price (USD)** | **Link & Repo** | **Added By** |
 |:--------:|:-------:|:-------:|:------:|:---------:|:---------:|:--------:|
+| Homescreen | SearchDots | Replaces the page dots with Spotlight Search Pill | 14.0 - 15.7 | Free | [Chariz](https://chariz.com/get/searchdots) |
 | Lock Screen | AIM | iOS 16 Style Time & Date | 14.0 - 15.7.1 | Free | [Havoc](https://havoc.app/package/aim) |
 | Wallpaper Depth Effect | Exiwall | Exiwall generates depth effect wallpapers | 14.0 - 15.7.1 | $2.49 | [Havoc](https://havoc.app/package/exiwall) |
 | Battery Styling | Ampere | A tweak to replicate iOS 16's battery styling | 14.0 - 15.7.1 | Free | [Havoc](https://havoc.app/package/ampere) |
