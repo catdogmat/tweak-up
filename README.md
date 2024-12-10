@@ -29,7 +29,7 @@ A curated list of iOS Jailbreak Tweaks that help you unlock the latest features 
     - 🛠️ [Useful Features](#useful-features)
 
 
-# **Useful Tools (for newer iPhones, with or without a jailbreak)**
+## **Useful Tools (for newer iPhones, with or without a jailbreak)**
 ---
 Using these tools, you can unlock most features that are only available on new iPhones, without "jailbreaking" in a traditional sense. 
 
@@ -48,7 +48,7 @@ Using these tools, you can unlock most features that are only available on new i
     
 
 
-# **Tweaks (for iPhones with a jailbreak)**
+## **Tweaks (for iPhones with a jailbreak)**
 ---
 # iOS 18 
 
