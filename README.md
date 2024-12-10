@@ -14,6 +14,7 @@ A curated list of iOS Jailbreak Tweaks that help you unlock the latest features 
 - **Useful Tools**
     - [Nugget](https://github.com/leminlimez/Nugget)
     - [Misaka X](https://github.com/straight-tamago/misakaX)
+    - [Trollstore](https://github.com/opa334/TrollStore)
 - **Tweaks**
     - 🎨 [iOS 18](#ios-18)
     - 🗺️ [iOS 17](#ios-17)
@@ -31,14 +32,16 @@ A curated list of iOS Jailbreak Tweaks that help you unlock the latest features 
 ---
 Using these tools, you can unlock most features that are only available on new iPhones, without "jailbreaking" in a traditional sense. 
 
-- [Nugget](https://github.com/leminlimez/Nugget)
-  An awesome tool that allows you to enable features from newer iPhones.
+- [Nugget](https://github.com/leminlimez/Nugget)<br>
+  An awesome tool that allows you to enable features from newer iPhones.<br>
   **Supports iOS 17.0-17.7 and iOS 18.0-18.1 beta 4. Computer required.**
-- [Misaka X](https://github.com/straight-tamago/misakaX)
-  A great tool that can enable features from newer iPhones. **Can install trollstore**
+  
+- [Misaka X](https://github.com/straight-tamago/misakaX)<br>
+  A great tool that can enable features from newer iPhones. **Can install trollstore**<br>
   **Supports iOS /iPadOS 16.0 - 18.2 beta 2. Computer required.**
-- [Trollstore](https://github.com/opa334/TrollStore)
-  An app that utilizes a CoreTrust bug to allow you to install apps.
+  
+- [Trollstore](https://github.com/opa334/TrollStore) ([Guide](https://ios.cfw.guide/installing-trollstore/))<br>
+  An app that utilizes a CoreTrust bug to allow you to install apps.<br>
   **Supports 14.0 beta 2 - 16.6.1, 16.7 RC (20H18), 17.0. Computer may be required.**
     
 
