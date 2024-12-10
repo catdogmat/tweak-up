@@ -30,7 +30,6 @@ A curated list of iOS Jailbreak Tweaks that help you unlock the latest features 
 
 
 ## **Useful Tools (for newer iPhones, with or without a jailbreak)**
----
 Using these tools, you can unlock most features that are only available on new iPhones, without "jailbreaking" in a traditional sense. 
 
 - [Nugget](https://github.com/leminlimez/Nugget)<br>
@@ -49,7 +48,6 @@ Using these tools, you can unlock most features that are only available on new i
 
 
 ## **Tweaks (for iPhones with a jailbreak)**
----
 # iOS 18 
 
 | **Feature** | **Name of Tweak** | **Description** | **iOS Compatibility** | **Price (USD)** | **Link & Repo** | **Added By** |
