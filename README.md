@@ -7,6 +7,7 @@ A curated list of iOS Jailbreak Tweaks that help you unlock the latest features 
 > :warning: **Jailbreaking can be risky**: Your device **could** get bricked! Be careful!
 
 > :warning: **Never use video guides**: They get out of date quickly and may cause issues.
+
 ---
 
 ## Table of Contents
@@ -40,9 +41,10 @@ Using these tools, you can unlock most features that are only available on new i
   A great tool that can enable features from newer iPhones. **Can install trollstore**<br>
   **Supports iOS /iPadOS 16.0 - 18.2 beta 2. Computer required.**
   
-- [Trollstore](https://github.com/opa334/TrollStore) ([Guide](https://ios.cfw.guide/installing-trollstore/))<br>
-  An app that utilizes a CoreTrust bug to allow you to install apps.<br>
-  **Supports 14.0 beta 2 - 16.6.1, 16.7 RC (20H18), 17.0. Computer may be required.**
+- [TrollStore](https://github.com/opa334/TrollStore)<br>
+  A tool that utilizes a CoreTrust bug to allow you to install apps.<br>
+  **Supports 14.0 beta 2 - 16.6.1, 16.7 RC (20H18), 17.0. Computer may be required.**<br>
+  [Click here](https://ios.cfw.guide/installing-trollstore/) for a guide on installing TrollStore.
     
 
 
