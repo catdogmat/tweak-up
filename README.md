@@ -99,7 +99,7 @@ Using these tools, you can unlock most features that are only available on new i
 | Live Activity Widgets | Live Activities | Have some of your live activities on your lock screen, including interactions with some modules | 14.0 - 14.8.1 | $2.99 | [Havoc](https://havoc.app/package/liveactivities) | [u/corazoncerebral](https://www.reddit.com/user/corazoncerebral/) |
 | Live Text | Live Text Enabler | Enable Live Text on unsupported iOS 15 devices | 15.0 - 16.7.10 | Free | [PoomSmart](https://poomsmart.github.io/repo/depictions/livetextenabler.html) | [u/TheInsane103](https://www.reddit.com/user/TheInsane103/) |
 | Mark Messages Unread | MarkMessagesUnread | An tweak based on "MessageUnread" with notification badge reminder | 11.0 - 14.8.1 | Free | [Bigboss](http://cydia.saurik.com/package/com.ljinc.markmessagesunread/) | [u/Doctor__Hammer](https://www.reddit.com/user/Doctor__Hammer/) |
-
+| Music Player | 16Player | The new music player ported to older versions | 14.0 - 15.8 | $2.49 | [Chariz](https://chariz.com/buy/16player) |  |
 ---
 
 # iOS 15
