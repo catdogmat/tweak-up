@@ -71,7 +71,7 @@ Using these tools, you can unlock most features that are only available on new i
 
 | **Feature** | **Name of Tweak** | **Description** | **iOS Compatibility** | **Price (USD)** | **Link & Repo** | **Added By** |
 |:--------:|:-------:|:-------:|:------:|:---------:|:---------:|:--------:|
-| Statusbar | Single Mute | We managed to bring you the original mute feelings of iPhone 15/16 series for all jailbroken iOS 15/16 devices. | 15.0 - 16.7.10 | Free | [Havoc](https://havoc/depiction/singlemute) |
+| Statusbar | Single Mute | Just a single mute icon on the status bar of iOS. | 15.0 - 16.7.10 | Free | [Havoc](https://havoc.app/depiction/singlemute) |
 | Maps | Advanced Map Enabler | Enables globe on unsupported devices | 15.0 - 16.7.10 | Free | [Poom Smart´s Repo](https://poomsmart.github.io/repo/depictions/advancedmapenabler.html) |
 | Translations | LatestTranslate | Make Apple's Translate app support all languages to date. | 14.0 - 16.7.10 | Free | [Poom Smart´s Repo](https://poomsmart.github.io/repo/depictions/latesttranslate.html) |
 | System | DarkPods | Backport the iOS 17 AirPods popup to iOS 14-16 | 14.0 - 16.7.10 | Free | [iCraze's Repo](https://repo.icrazeios.com/) |
@@ -79,7 +79,7 @@ Using these tools, you can unlock most features that are only available on new i
 | Music | ArtFull | Make the Apple Music app look like iOS 17 | 14.0 - 16.7.10 | Free | [Havoc](https://havoc.app/package/artfull) |
 | Messages | SwipeToReply | Enables swipe to reply gesture on iOS 16 | 15.0 - 16.7.10 | Free | [P2KDevs´s Repo](https://p2kdev.github.io/repo/) |
 | LockScreen | LastLook | Adds always-on to your lock screen | 12.0 - 16.7.10 | $3.99 | [Chariz](https://chariz.com/buy/lastlook) |
-| Camera | 11Cam15 | Adds the iPhone 11 Camera App to your iPhone | 15.0 - 16.7.10 | Free | [Michael Melita´s Repo](https://havoc.app/package/aim) |
+| Camera | 11Cam15 | Adds the iPhone 11 Camera App to your iPhone | 15.0 - 16.7.10 | Free | [Michael Melita´s Repo](https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.11cam15) |
 | Keyboard | EmojiPort (iOS 12.0-17.3) | Latest emojis for iOS | 12.0 - 17.3 | Free | [Poom Smart´s Repo](https://poomsmart.github.io/repo/depictions/advancedmapenabler.html) |
 
 ---
