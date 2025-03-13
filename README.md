@@ -88,6 +88,7 @@ Using these tools, you can unlock most features that are only available on new i
 
 | **Feature** | **Name of Tweak** | **Description** | **iOS Compatibility** | **Price (USD)** | **Link & Repo** | **Added By** |
 |:--------:|:-------:|:-------:|:------:|:---------:|:---------:|:--------:|
+| Preferences | SettingsWiFiPassword | Show current WiFi password inside WiFi settings | 11.0 - 15.7 | Free | [Github](https://github.com/NightwindDev/SettingsWiFiPassword/releases) |
 | Homescreen | SearchDots | Replaces the page dots with Spotlight Search Pill | 14.0 - 15.7 | Free | [Chariz](https://chariz.com/get/searchdots) |
 | Lock Screen | AIM | iOS 16 Style Time & Date | 14.0 - 15.7.1 | Free | [Havoc](https://havoc.app/package/aim) |
 | Wallpaper Depth Effect | Exiwall | Exiwall generates depth effect wallpapers | 14.0 - 15.7.1 | $2.49 | [Havoc](https://havoc.app/package/exiwall) |
