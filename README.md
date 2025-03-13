@@ -54,6 +54,7 @@ Using these tools, you can unlock most features that are only available on new i
 
 | **Feature** | **Name of Tweak** | **Description** | **iOS Compatibility** | **Price (USD)** | **Link & Repo** | **Added By** |
 |:--------:|:-------:|:-------:|:------:|:---------:|:---------:|:--------:|
+| System | SFSymbols | Backports latest SF Symbols to older iOS versions. | 13.0 - 17.7.5 | Free | [Poom Smart´s Repo](https://poomsmart.github.io/repo/depictions/sfsymbols.html) |
 | Keyboard | EmoZoom | Scale emoji size on iOS emoji keyboard. | 8.3 - 17.5 | Free | [Chariz](https://chariz.com/get/emozoom) |
 | Lockscreen | NotificationsGroupCount | iOS 18.1 notification stack count | 15.0 - 16.0 | $1.50 | [0xkuj's Repo](https://0xkuj.yourepo.com/pack/notificationsgroupcount) |
 | System | PopOutButtons | iOS 18 button popout animation | 13.0 - 17.5 | Free | [Chariz](https://chariz.com/get/popoutbuttons) |
