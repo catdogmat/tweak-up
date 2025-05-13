@@ -92,6 +92,8 @@ Using these tools, you can unlock most features that are only available on new i
 | Preferences | SettingsWiFiPassword | Show current WiFi password inside WiFi settings | 11.0 - 15.7 | Free | [Github](https://github.com/NightwindDev/SettingsWiFiPassword/releases) |
 | Homescreen | SearchDots | Replaces the page dots with Spotlight Search Pill | 14.0 - 15.7 | Free | [Chariz](https://chariz.com/get/searchdots) |
 | Lock Screen | AIM | iOS 16 Style Time & Date | 14.0 - 15.7.1 | Free | [Havoc](https://havoc.app/package/aim) |
+| Lock Screen | AIM Pro | iOS 16 Style Time & Date | 14.0 - 15.7.1 | $1.99 | [Havoc](https://havoc.app/package/aimpro) |
+| Gestures | GesturesXV | iPhone X gestures brought to older iPhones | 15.0 - 15.7.5 | Free | [Havoc](https://havoc.app/package/gesturesxv) |
 | Wallpaper Depth Effect | Exiwall | Exiwall generates depth effect wallpapers | 14.0 - 15.7.1 | $2.49 | [Havoc](https://havoc.app/package/exiwall) |
 | Battery Styling | Ampere | A tweak to replicate iOS 16's battery styling | 14.0 - 15.7.1 | Free | [Havoc](https://havoc.app/package/ampere) |
 | Dynamic Island | Emerald | Emerald enhances your status bar | 12.0 - 14.8.1 | Free | [Havoc](https://havoc.app/package/emerald) |
@@ -161,5 +163,6 @@ Using these tools, you can unlock most features that are only available on new i
 |:--------:|:-------:|:-------:|:------:|:---------:|:---------:|:--------:|
 | Screen Recording | PlayMusicOnRecord | Disable Music/Audio from stopping when recording Videos or Screen | ?.? - 16.7.10 - ?.? | Free | [Cydia Saurik](http://cydia.saurik.com/package/com.cydiageek.playmusiconrecord/) |
 | Control Center | RingerToggle (CCSupport) | Add ringer toggle to your control center | 14.0 - 16.7.10 | Free | [ichitaso repository](https://cydia.ichitaso.com/) |
-
+| iOS customization | Lynx 2 | Allows you to customize almost every feature in iOS | 14.0 - 16.7.10 | $1.99 | [Havoc](https://havoc.app/package/lynxtwo) |
+| Enables 120hz everywhere | Dynamic120hz | Unlock ProMotion Devices Dynamic Refresh Rate  | 15.0 - 16.6.1 | $1.99 | [Havoc](https://havoc.app/package/dynamic120hz) |
 ---
