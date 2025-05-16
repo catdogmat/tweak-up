@@ -147,6 +147,7 @@ Using these tools, you can unlock most features that are only available on new i
 | **Feature** | **Name of Tweak** | **Description** | **iOS Compatibility** | **Price (USD)** | **Link & Repo** | **Added By** |
 |:--------:|:-------:|:-------:|:------:|:---------:|:---------:|:--------:|
 | LockScreen | Complications | watchOS widgets on your lock screen | 13.0 - 17.0 ([Fix](https://repo.icrazeios.com)) for iOS 15-17 | $1.99 | [Havoc](https://havoc.app/package/complications) |
+| Homescreen | Bridge | The Apple Watch homescreen experience brought to iOS | 14.0 - 16.7.8 | $2.49 | [Havoc](https://havoc.app/package/bridge) |
 
 ---
 
