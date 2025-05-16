@@ -99,6 +99,7 @@ Using these tools, you can unlock most features that are only available on new i
 | Battery Styling | Ampere | A tweak to replicate iOS 16's battery styling | 14.0 - 15.7.1 | Free | [Havoc](https://havoc.app/package/ampere) |
 | Dynamic Island | Emerald | Emerald enhances your status bar | 12.0 - 14.8.1 | Free | [Havoc](https://havoc.app/package/emerald) |
 | Dynamic Island | DynamicPeninsula | Get Dynamic Island effects on your notch | 13.0 - 16.7.10, Notched iPhones Only | $3.99 | [Limneos](https://limneos.net/dynamicpeninsula/) | [u/TECKBAT](https://www.reddit.com/user/TECKBAT/) |
+| Dynamic Island | Visible Island | Fully fledged Dynamic Island customization | ? | Free | [Github](https://github.com/ethxnn88/VisibleIsland) |
 | Newer Apple Watches | Legizmo ‘Kincaid’ | Pair Newer Apple Watches | 13.0 - 15.7 | $4.99 | [Chariz](https://chariz.com/buy/legizmo-kincaid) |
 | Authentication | checkl0ck | checkl0ck is a tweak for devices to give you back the passcode and biometric capabilities | 14.3 - 16.7.10 | $3.99 | [Havoc](https://havoc.app/package/checkl0ck) |
 | Live Activity Widgets | Live Activities | Have some of your live activities on your lock screen, including interactions with some modules | 14.0 - 14.8.1 | $2.99 | [Havoc](https://havoc.app/package/liveactivities) | [u/corazoncerebral](https://www.reddit.com/user/corazoncerebral/) |
