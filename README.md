@@ -5,10 +5,10 @@ A curated list of iOS Jailbreak Tweaks that help you unlock the latest features 
 > Vist the [iOS CFW guide](https://ios.cfw.guide/) for guides on how to jailbreak your iPhone.
 
 > [!CAUTION]
-> **Jailbreaking can be risky**: Your device **could** get bricked! Be careful!
+> **Jailbreaking can be risky**: Your device **could** get bricked if your device has an untethered jailbreak. Be careful!
 
 > [!WARNING]
-> **Never use video guides**: They get out of date quickly and may cause issues.
+> **Never use video guides**: They get out of date quickly and most guides on popular video sites usually contain malicious files or fake jailbreaks.
 
 ---
 
