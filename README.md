@@ -8,7 +8,7 @@ A curated list of iOS Jailbreak Tweaks that help you unlock the latest features 
 > **Jailbreaking can be risky**: Your device **could** get bricked! Be careful!
 
 > [!WARNING]
-> **Never use video guides**: They get out of date quickly and may cause issues.
+> **Never use video guides**: They get out of date quickly and most guides on popular video sites usually contain malicious files or fake jailbreaks.
 
 ---
 
