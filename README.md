@@ -29,6 +29,7 @@ A curated list of iOS Jailbreak Tweaks that help you unlock the latest features 
     - ⌚ [watchOS](#watchos)
     - 📱 [Android](#android)
     - 🛠️ [Useful Features](#useful-features)
+    - ⚖ [Compatibility](#compatibility)
 
 
 ## **Useful Tools (for newer iPhones, with or without a jailbreak)**
@@ -169,4 +170,14 @@ Using these tools, you can unlock most features that are only available on new i
 | Control Center | RingerToggle (CCSupport) | Add ringer toggle to your control center | 14.0 - 16.7.10 | Free | [ichitaso repository](https://cydia.ichitaso.com/) |
 | iOS customization | Lynx 2 | Allows you to customize almost every feature in iOS | 14.0 - 16.7.10 | $1.99 | [Havoc](https://havoc.app/package/lynxtwo) |
 | Enables 120hz everywhere | Dynamic120hz | Unlock ProMotion Devices Dynamic Refresh Rate  | 15.0 - 16.6.1 | $1.99 | [Havoc](https://havoc.app/package/dynamic120hz) |
+---
+
+# Compatibility
+
+| **Feature** | **Name of Tweak** | **Description** | **iOS Compatibility** | **Price (USD)** | **Link & Repo** | **Added By** |
+|:--------:|:-------:|:-------:|:------:|:---------:|:---------:|:--------:|
+| WebKit | SteamWebLegacyCompat | Makes Steam website more accessible  | 14.1 - 16.3.1 | Free | [PoomSmart](https://poomsmart.github.io/repo/depictions/steamweblegacycompat.html) |
+| WebKit | GitHubWebLegacyCompat | Makes GitHub website more accessible | 8.0 - 16.3.1 | Free | [PoomSmart](https://poomsmart.github.io/repo/depictions/githubweblegacycompat.html) |
+| WebKit | ChatGPTWebLegacyCompat | Makes ChatGPT website more accessible | 15.0 - 15.8 | Free | [PoomSmart](https://poomsmart.github.io/repo/depictions/chatgptweblegacycompat.html) |
+| WebKit | Polyfills |Provides polyfills for some JavaScript features that are not available on old iOS versions. | 8.0 - 16.3.1 | Free | [PoomSmart](https://poomsmart.github.io/repo/depictions/polyfills.html) |
 ---
