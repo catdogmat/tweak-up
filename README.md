@@ -54,6 +54,8 @@ Using these tools, you can unlock most features that are only available on new i
 
 | **Feature** | **Name of Tweak** | **Description** | **iOS Compatibility** | **Price (USD)** | **Link & Repo** | **Added By** |
 |:--------:|:-------:|:-------:|:------:|:---------:|:---------:|:--------:|
+| Calculator | CalculatorHistory |Stay organized, efficient, and always in control of your math! | 14.0 - 16.7.11 | Free | [Havoc](https://havoc.app/depiction/calchistory) |
+| Calculator | CalculatorConverter | Calculate smarter with built in conversions—just like iOS 18! | 14.0 - 16.7.11| Free | [Havoc](https://havoc.app/depiction/calcconverter) |
 | Notifications | dig3st | AI notification summaries feature | 15.0 - 17.7.5 | Free | [uncores repo](https://repo.uncore.me) |
 | System | SFSymbols | Backports latest SF Symbols to older iOS versions. | 13.0 - 17.7.5 | Free | [Poom Smart´s Repo](https://poomsmart.github.io/repo/depictions/sfsymbols.html) |
 | Keyboard | EmoZoom | Scale emoji size on iOS emoji keyboard. | 8.3 - 17.5 | Free | [Chariz](https://chariz.com/get/emozoom) |
@@ -67,7 +69,7 @@ Using these tools, you can unlock most features that are only available on new i
 | Homescreen | ShadowBuster | Remove shadows from Homescreen labels like in iOS 18 | 14 - 16.7.10 | Free | [Lizynz's Repo](https://lizynz.github.io/) |
 | Control Center | CC18 | Round CC modules replication, like in iOS 18 | 14-16.7.10 | Free | [Github](https://github.com/dayanch96/CC18) | 
 
-
+https://havoc.app/depiction/calcconverter
 ---
 
 # iOS 17
