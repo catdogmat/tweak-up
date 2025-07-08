@@ -68,8 +68,6 @@ Using these tools, you can unlock most features that are only available on new i
 | Camera | RecordPause | Pause/resume video recording | 15.0 - 16.7.10 | Free | [Poom Smart´s Repo](https://poomsmart.github.io/repo/depictions/advancedmapenabler.html) |
 | Homescreen | ShadowBuster | Remove shadows from Homescreen labels like in iOS 18 | 14 - 16.7.10 | Free | [Lizynz's Repo](https://lizynz.github.io/) |
 | Control Center | CC18 | Round CC modules replication, like in iOS 18 | 14-16.7.10 | Free | [Github](https://github.com/dayanch96/CC18) | 
-
-https://havoc.app/depiction/calcconverter
 ---
 
 # iOS 17
