@@ -173,7 +173,7 @@ Using these tools, you can unlock most features that are only available on new i
 ---
 
 # Compatibility
-
+Tweaks that help fix websites on old iOS versions.
 | **Feature** | **Name of Tweak** | **Description** | **iOS Compatibility** | **Price (USD)** | **Link & Repo** | **Added By** |
 |:--------:|:-------:|:-------:|:------:|:---------:|:---------:|:--------:|
 | WebKit | SteamWebLegacyCompat | Makes Steam website more accessible  | 14.1 - 16.3.1 | Free | [PoomSmart](https://poomsmart.github.io/repo/depictions/steamweblegacycompat.html) |
